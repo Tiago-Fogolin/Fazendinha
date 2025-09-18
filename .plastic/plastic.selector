@@ -1,0 +1,4 @@
+repository "Fazendinha 2025-08-24_19-47-09/Fazendinha 2025-09-15_20-47-54@4673267111389@cloud"
+  path "/"
+    br "/main"
+    co "/main"
