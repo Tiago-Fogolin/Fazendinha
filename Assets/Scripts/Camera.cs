@@ -3,31 +3,35 @@ using UnityEngine;
 public class CameraController : MonoBehaviour
 {
     public Transform target;
-    public Vector3 offset = new Vector3(0f, 2f, -4f);
+    public Vector3 offset = new Vector3(0f, 2f, -4f); // posição atrás e acima do alvo
     public float mouseSensitivity = 100f;
+    public float minPitch = -20f; // limitar para não ir abaixo do chão
+    public float maxPitch = 50f;
 
-    private float yaw = 0f;   // Rotação horizontal
-    private float pitch = 10f; // Rotação vertical inicial
+    private float yaw = 0f;
+    private float pitch = 10f;
 
-    void Update()
+    void LateUpdate()
     {
         if (target == null) return;
 
-        // Pegando movimento do mouse
+        // Movimento do mouse
         float mouseX = Input.GetAxis("Mouse X") * mouseSensitivity * Time.deltaTime;
         float mouseY = Input.GetAxis("Mouse Y") * mouseSensitivity * Time.deltaTime;
 
-        // Atualiza rotação da câmera
         yaw += mouseX;
         pitch -= mouseY;
-        pitch = Mathf.Clamp(pitch, -35f, 60f); // Limita para não girar demais
+        pitch = Mathf.Clamp(pitch, minPitch, maxPitch);
 
-        // Calcula posição da câmera
-        Quaternion rotation = Quaternion.Euler(pitch, yaw, 0);
+        // Rotação baseada em yaw/pitch
+        Quaternion rotation = Quaternion.Euler(pitch, yaw, 0f);
+
+        // Offset rotacionado em torno do alvo
         Vector3 desiredPosition = target.position + rotation * offset;
 
-        // Move a câmera
         transform.position = desiredPosition;
-        transform.LookAt(target.position);
+
+        // Olhar para o alvo (subindo um pouco para mirar na cabeça)
+        transform.LookAt(target.position + Vector3.up * 1.5f);
     }
 }
