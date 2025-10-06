@@ -1,0 +1,10 @@
+# Made in Blockbench 4.12.6
+newmtl m_fdd933d1-0811-8113-6fd9-018d80640c83
+map_Kd corpus1.png
+newmtl m_f54117f0-5bdb-93a3-028f-a963d3d89bcf
+map_Kd corpus2.png
+newmtl m_1a0bc6aa-cecc-d055-1de4-b36c023c03f9
+map_Kd corpus3.png
+newmtl m_ffd336f3-1a9f-7e32-d003-0775ad2212f4
+map_Kd corpus4.png
+newmtl none
