@@ -1,10 +1,11 @@
 using UnityEngine;
 using UnityEngine.UI;
 
-enum ItemType
+public enum ItemType
 {
     NONE,
     BLOCK,
+    SHOVEL,
     TOMATE
 }
 
@@ -12,7 +13,7 @@ public class Hud : MonoBehaviour
 {
 
     public Canvas hudCanvas;
-    public GridRaycast gridRayCast;
+    public PlacementController placementController;
 
     private int selectedItem = 0;
     private int totalItens = 3;
@@ -21,7 +22,7 @@ public class Hud : MonoBehaviour
 
     void Start()
     {
-        items = new ItemType[] { ItemType.BLOCK, ItemType.TOMATE, ItemType.NONE };
+        items = new ItemType[] { ItemType.BLOCK, ItemType.TOMATE, ItemType.SHOVEL };
         img = hudCanvas.transform.GetChild(selectedItem).GetComponent<RawImage>();
         img.color = Color.green;
         setSelectedItem();
@@ -65,17 +66,14 @@ public class Hud : MonoBehaviour
     {
         var item = items[selectedItem];
 
-        switch (item)
+        if (item == ItemType.NONE || item == ItemType.SHOVEL)
         {
-            case ItemType.BLOCK:
-                gridRayCast.setGroundObj();
-                return;
-            case ItemType.TOMATE:
-                gridRayCast.setTomateObj();
-                return;
-            default:
-                gridRayCast.resetObj();
-                return;
+            placementController.SetTipo(item);
+            placementController.resetObj();
+            return;
         }
+
+
+        placementController.setObj(item);
     }
 }

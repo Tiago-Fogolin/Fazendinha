@@ -3,24 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\Tiago Fogolin\\Desktop\\Fazendinha\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C3D730E4-641C-4B4D-3A94-D24594901739}|Assembly-CSharp.csproj|c:\\users\\tiago fogolin\\desktop\\fazendinha\\assets\\scripts\\hud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C3D730E4-641C-4B4D-3A94-D24594901739}|Assembly-CSharp.csproj|c:\\users\\tiago fogolin\\desktop\\fazendinha\\assets\\scripts\\placementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3D730E4-641C-4B4D-3A94-D24594901739}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\placementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D730E4-641C-4B4D-3A94-D24594901739}|Assembly-CSharp.csproj|C:\\Users\\Tiago Fogolin\\Desktop\\Fazendinha\\assets\\scripts\\hud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C3D730E4-641C-4B4D-3A94-D24594901739}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\hud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C3D730E4-641C-4B4D-3A94-D24594901739}|Assembly-CSharp.csproj|c:\\users\\tiago fogolin\\desktop\\fazendinha\\assets\\scripts\\gridraycast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3D730E4-641C-4B4D-3A94-D24594901739}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gridraycast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C3D730E4-641C-4B4D-3A94-D24594901739}|Assembly-CSharp.csproj|C:\\Users\\Tiago Fogolin\\Desktop\\Fazendinha\\assets\\scripts\\planta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3D730E4-641C-4B4D-3A94-D24594901739}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\planta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C3D730E4-641C-4B4D-3A94-D24594901739}|Assembly-CSharp.csproj|C:\\Users\\Tiago Fogolin\\Desktop\\Fazendinha\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3D730E4-641C-4B4D-3A94-D24594901739}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C3D730E4-641C-4B4D-3A94-D24594901739}|Assembly-CSharp.csproj|C:\\Users\\Tiago Fogolin\\Desktop\\Fazendinha\\assets\\scripts\\itemconfigs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3D730E4-641C-4B4D-3A94-D24594901739}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\itemconfigs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D730E4-641C-4B4D-3A94-D24594901739}|Assembly-CSharp.csproj|C:\\Users\\Tiago Fogolin\\Desktop\\Fazendinha\\assets\\scripts\\gridraycast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3D730E4-641C-4B4D-3A94-D24594901739}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gridraycast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C3D730E4-641C-4B4D-3A94-D24594901739}|Assembly-CSharp.csproj|C:\\Users\\Tiago Fogolin\\Desktop\\Fazendinha\\assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C3D730E4-641C-4B4D-3A94-D24594901739}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Tiago Fogolin\\Desktop\\Fazendinha\\Library\\PackageCache\\com.unity.collab-proxy@8f3c30ecd081\\Editor\\Views\\PendingChanges\\PendingChangesTab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.collab-proxy@8f3c30ecd081\\Editor\\Views\\PendingChanges\\PendingChangesTab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C3D730E4-641C-4B4D-3A94-D24594901739}|Assembly-CSharp.csproj|C:\\Users\\Tiago Fogolin\\Desktop\\Fazendinha\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3D730E4-641C-4B4D-3A94-D24594901739}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C3D730E4-641C-4B4D-3A94-D24594901739}|Assembly-CSharp.csproj|C:\\Users\\Tiago Fogolin\\Desktop\\Fazendinha\\assets\\scripts\\camera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,63 +42,88 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Hud.cs",
-              "DocumentMoniker": "C:\\Users\\Tiago Fogolin\\Desktop\\Fazendinha\\Assets\\Scripts\\Hud.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Hud.cs",
-              "ToolTip": "C:\\Users\\Tiago Fogolin\\Desktop\\Fazendinha\\Assets\\Scripts\\Hud.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Hud.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAAoAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "ItemConfigs.cs",
+              "DocumentMoniker": "C:\\Users\\Tiago Fogolin\\Desktop\\Fazendinha\\Assets\\Scripts\\ItemConfigs.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ItemConfigs.cs",
+              "ToolTip": "C:\\Users\\Tiago Fogolin\\Desktop\\Fazendinha\\Assets\\Scripts\\ItemConfigs.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ItemConfigs.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-12T19:42:45.024Z",
+              "WhenOpened": "2025-10-19T23:29:13.165Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "PlacementController.cs",
+              "DocumentMoniker": "C:\\Users\\Tiago Fogolin\\Desktop\\Fazendinha\\Assets\\Scripts\\PlacementController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlacementController.cs",
+              "ToolTip": "C:\\Users\\Tiago Fogolin\\Desktop\\Fazendinha\\Assets\\Scripts\\PlacementController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlacementController.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAEwHgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T23:41:09.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Planta.cs",
+              "DocumentMoniker": "C:\\Users\\Tiago Fogolin\\Desktop\\Fazendinha\\Assets\\Scripts\\Planta.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Planta.cs",
+              "ToolTip": "C:\\Users\\Tiago Fogolin\\Desktop\\Fazendinha\\Assets\\Scripts\\Planta.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Planta.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAxwB0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T22:23:27.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "GridRaycast.cs",
               "DocumentMoniker": "C:\\Users\\Tiago Fogolin\\Desktop\\Fazendinha\\Assets\\Scripts\\GridRaycast.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\GridRaycast.cs",
               "ToolTip": "C:\\Users\\Tiago Fogolin\\Desktop\\Fazendinha\\Assets\\Scripts\\GridRaycast.cs",
               "RelativeToolTip": "Assets\\Scripts\\GridRaycast.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAAwBoAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAADwvzAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-06T22:46:34.135Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "Hud.cs",
+              "DocumentMoniker": "C:\\Users\\Tiago Fogolin\\Desktop\\Fazendinha\\Assets\\Scripts\\Hud.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Hud.cs",
+              "ToolTip": "C:\\Users\\Tiago Fogolin\\Desktop\\Fazendinha\\Assets\\Scripts\\Hud.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Hud.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAuwEcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T19:42:45.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "GameManager.cs",
               "DocumentMoniker": "C:\\Users\\Tiago Fogolin\\Desktop\\Fazendinha\\Assets\\Scripts\\GameManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
               "ToolTip": "C:\\Users\\Tiago Fogolin\\Desktop\\Fazendinha\\Assets\\Scripts\\GameManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-06T22:40:53.455Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-06T22:40:53.455Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "PendingChangesTab.cs",
-              "DocumentMoniker": "C:\\Users\\Tiago Fogolin\\Desktop\\Fazendinha\\Library\\PackageCache\\com.unity.collab-proxy@8f3c30ecd081\\Editor\\Views\\PendingChanges\\PendingChangesTab.cs",
-              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.collab-proxy@8f3c30ecd081\\Editor\\Views\\PendingChanges\\PendingChangesTab.cs",
-              "ToolTip": "C:\\Users\\Tiago Fogolin\\Desktop\\Fazendinha\\Library\\PackageCache\\com.unity.collab-proxy@8f3c30ecd081\\Editor\\Views\\PendingChanges\\PendingChangesTab.cs",
-              "RelativeToolTip": "Library\\PackageCache\\com.unity.collab-proxy@8f3c30ecd081\\Editor\\Views\\PendingChanges\\PendingChangesTab.cs",
-              "ViewState": "AgIAAIIDAAAAAAAAAAAswJEDAABQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-22T21:17:41.907Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Player.cs",
               "DocumentMoniker": "C:\\Users\\Tiago Fogolin\\Desktop\\Fazendinha\\Assets\\Scripts\\Player.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player.cs",
@@ -102,7 +135,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Camera.cs",
               "DocumentMoniker": "C:\\Users\\Tiago Fogolin\\Desktop\\Fazendinha\\Assets\\Scripts\\Camera.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Camera.cs",

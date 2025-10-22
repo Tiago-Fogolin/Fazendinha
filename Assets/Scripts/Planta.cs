@@ -3,7 +3,7 @@ using UnityEngine;
 
 public class Planta : MonoBehaviour
 {
-    private int stage = 0;
+    public int stage = 0;
     void Start()
     {
         StartCoroutine(timerStage());
@@ -14,6 +14,20 @@ public class Planta : MonoBehaviour
     {
 
         
+    }
+
+    public void firstStage()
+    {
+        for(int i = 1; i <  transform.childCount; i++)
+        {
+            transform.GetChild(i).gameObject.SetActive(false);
+        }
+
+        transform.GetChild(0).gameObject.SetActive(true);
+
+        stage = 0;
+
+        StartCoroutine(timerStage());
     }
 
     private IEnumerator timerStage()
